@@ -17,7 +17,7 @@ minesweeper made with c++ and sdl
 
 5. In visual studio, go to Project -> properties -> Linker -> Input -> Additional dependencies
 
-6. add SDL2_ttf.lib , SDL2_image.lib , SDL2main.lib , SDL2_mixer.lib , SDL2.lib
+6. add  **SDL2_ttf.lib** , **SDL2_image.lib** , **SDL2main.lib** , **SDL2_mixer.lib** , **SDL2.lib**
 
 7. go to Configuration Properties -> Include Directories 
 
