@@ -19,11 +19,11 @@ minesweeper made with c++ and sdl
 
 6. add  **SDL2_ttf.lib** , **SDL2_image.lib** , **SDL2main.lib** , **SDL2_mixer.lib** , **SDL2.lib**
 
-7. go to Configuration Properties -> Include Directories 
+7. go to Project -> properties -> Configuration Properties -> Include Directories 
 
 8. add **SDL2_mixer-devel-2.0.2-VC/include** , **SDL2_ttf-devel-2.0.14-VC/include** ,  **SDL2_image-2.0.1/include** , **SDL2-devel-2.0.7-VC/include**
 
-9. go to Configuration Properties -> Library Directories
+9. go to Project -> properties -> Configuration Properties -> Library Directories
  
 10. add **SDL2_mixer-devel-2.0.2-VC/lib/x86**, **SDL2_mixer-devel-2.0.2-VC/lib/x86**,  **SDL2_image-2.0.1/lib/x86**,  **SDL2-devel-2.0.7-VC/lib/x86**
 
