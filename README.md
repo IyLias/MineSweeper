@@ -1,10 +1,13 @@
 # MineSweeper
 minesweeper made with c++ and sdl
+<br><br>
+
+## Game Link
+
+https://youtu.be/B5W4liZ28qA
 
 
-
-
-
+<br><br>
 ## How to play
 
 1. clone all of files in this repo
